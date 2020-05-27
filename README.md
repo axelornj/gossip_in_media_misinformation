@@ -1,1 +1,3 @@
-# gossip_in_media_misinformation
+# Gossip and media misinformation
+
+With increasing circulation of misinformation. Fact-checking has become a daily task of media outlets and some social networks. First we look at certain topics and start to categorize them. When the topics have been established, data is scraped from different news outlets regarding the topics and using text similarity analysis, we analyse if one is likely to have been influenced by the other. Taking both text similarity as well as time stamps and other metadata into account, a graph can be optained for how this data spreads both digitally but also geographically. The last step is to use bayesian statistical learning approaches to predict how new information would spread depending on each category and initial state.
